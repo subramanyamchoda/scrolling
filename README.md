@@ -1,8 +1,14 @@
-# 🎬 React Reels (Instagram-like Scrolling)
+# 🎬 Panda Scrolling (Instagram-like Reels)
 
 A modern **Instagram Reels–style video scrolling app** built using React, TailwindCSS, and optimized rendering techniques.
 
 ---
+
+## 📷 Live Demo
+
+👉 https://pandascrolling.vercel.app/
+
+----
 
 ## 🚀 Features
 
@@ -83,12 +89,6 @@ This project mimics how platforms like Instagram handle reels efficiently:
 ## 📌 Summary
 
 > “Scroll → detect visible reel → play it → preload next → remove others”
-
----
-
-## 📷 Demo
-
-*Add your demo link or screenshots here*
 
 ---
 
